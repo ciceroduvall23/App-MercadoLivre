@@ -44,28 +44,25 @@ const styles = StyleSheet.create({
     height:200,
     marginTop:50,
     margin:10
- 
- 
- 
     
   },
   img:{
     height: 100,
-    width: 400,
+    width: 350,
      top:30,
-     right:10, 
+     right:8, 
      borderBottomLeftRadius: 10,
      borderBottomRightRadius: 10,
      borderTopRightRadius: 10,
      borderTopLeftRadius: 10,
      overflow: 'hidden',
+    
   },
-  titleStyle: {
-    fontSize: 20,
+    titleStyle: {
+    fontSize: 15,
     fontWeight: 'bold',
     textAlign: 'center',
     color:'#fff',
-
   },
   centerContentStyle: {
     justifyContent: 'center',
